@@ -1,4 +1,4 @@
-# OC
+# 本EFI为机友提供免费分享，严禁售卖
 Hasee G8-CU7NA OpenCore Boot
 神舟战神 G8-CU7NA OC0.6.6引导Big Sur 11.2 EFI
 
